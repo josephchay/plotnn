@@ -1,5 +1,7 @@
-# Plot Neural Network
+# Customized PNN
 
 ---
 
-Cutom updated enhancments for [Plot Neural Network](https://github.com/HarisIqbal88/PlotNeuralNet)
+Cutom updated enhancments for https://github.com/HarisIqbal88/PlotNeuralNet/tree/master/layers
+
+originated from research demonstration inspiration
